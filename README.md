@@ -59,6 +59,3 @@ A simple Express.js application that demonstrates user management functionality 
 
 This application uses an in-memory storage system (`UsersStorage` class) to simulate a database. Note that data will be reset when the server restarts.
 
-## License
-
-MIT
